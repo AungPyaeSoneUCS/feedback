@@ -170,4 +170,4 @@ If you encounter 500 Internal Server Errors, check the NGINX error log or the da
 
 ---
 
-*Developed and maintained by Aung Pyae Sone for the University of Computer Studies, Hinthada.*
+*Developed and maintained by the University of Computer Studies, Hinthada.*
