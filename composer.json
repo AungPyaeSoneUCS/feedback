@@ -1,0 +1,10 @@
+{
+    "name": "ucsh/student-feedback",
+    "description": "Student Feedback Information System",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

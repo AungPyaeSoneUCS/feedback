@@ -1,0 +1,7 @@
+-- ============================================================
+-- Migration v16: SKIPPED
+-- Default question templates are now stored in PHP arrays
+-- at config/default_questions.php — no database table needed.
+-- ============================================================
+-- This file is kept as a placeholder for migration tracking.
+-- No database changes required.
